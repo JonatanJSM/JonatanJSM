@@ -22,5 +22,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS icono" title="CSS"><br>CSS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git icono" title="Git"><br>Git</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP icono" title="PHP"><br>PHP</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C icono" title="C"><br>C</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript icono" title="TypeScript"><br>TypeScript</td>
   </tr>
 </table>
