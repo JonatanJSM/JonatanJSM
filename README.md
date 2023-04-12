@@ -6,7 +6,7 @@
 ---
 ### About me:
 - :computer: I’m currently studying the sixth semester of college.
-- :shipit: I’m currently learning: Next js
+- :shipit: I’m currently learning: Next js and Laravel
 - 💬 Languages: Spanish(Native), English(B1)
 
 ---
