@@ -29,5 +29,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://i.postimg.cc/GhyLHtXf/xampppp.png" alt="Xampp icono" title="Xampp"><br>Xampp</td>
+    <td align="center"><img src="https://i.postimg.cc/BQ4CYLdW/maven.png" alt="java maven icono" title="Maven"><br>Java Maven</td>
+    <td align="center"><img src="https://i.postimg.cc/tCn9cJP5/Scene-Builder-Logo2.png" alt="scene builder icono" title="scene builder"><br>Scene builder</td>
   </tr>
 </table>
