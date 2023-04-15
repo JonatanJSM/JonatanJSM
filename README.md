@@ -24,5 +24,8 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP icono" title="PHP"><br>PHP</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C icono" title="C"><br>C</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript icono" title="TypeScript"><br>TypeScript</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL icono" title="MySQL"><br>MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="Intellij icono" title="Intellij"><br>Intellij</td>
+    <!--<td align="center"><img src="https://www.flaticon.com/free-icons/xampp" alt="Xampp icono" title="Xampp"><br>Xampp</td>-->
   </tr>
 </table>
