@@ -41,5 +41,6 @@
     <td align="center"><img src="https://img.icons8.com/?size=48&id=aXgIQg8m0A4o&format=png&color=000000" alt="Salesforce icono" title="Salesforce"><br>Salesforce</td>
     <td align="center"><img src="https://img.icons8.com/?size=48&id=8gWOBXY72Osj&format=png&color=000000" alt="Bash icono" title="Bash"><br>Bash</td>
     <td align="center"><img src="https://img.icons8.com/?size=48&id=tjiBqMPIVsnp&format=png&color=000000" alt="Nest js icono" title="Nest js"><br>Nest js</td>
+    <td align="center"><img src="https://img.icons8.com/?size=48&id=39292&format=png&color=000000" alt="Jenkins" title="Jenkins"><br>Jenkins</td>
   </tr>
 </table>
