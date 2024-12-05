@@ -9,7 +9,7 @@
 
 ---
 
-### Languages & Tools: 
+### 💻 Tech Stack: 
 
 <table>
   <tr>
